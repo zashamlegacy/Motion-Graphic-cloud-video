@@ -1,0 +1,20 @@
+10 SFX STICKER EXPLAINER
+
+Fail audio sintetik original untuk projek ini, bukan rakaman stock.
+Format WAV PCM 16-bit mono, 48 kHz. Tiada muzik atau voiceover.
+
+01_Pop.wav | 0.24s | Sticker atau teks muncul
+02_Whoosh.wav | 0.5s | Slide masuk atau pertukaran scene
+03_Click.wav | 0.14s | Klik butang atau highlight point
+04_Ding.wav | 0.88s | Idea atau point penting
+05_Boing.wav | 0.73s | Sticker bounce atau reaksi lucu
+06_Success.wav | 0.785s | Checklist selesai atau jawapan betul
+07_Error.wav | 0.47s | Silap atau tanda pangkah
+08_Typing.wav | 0.93s | Teks ditaip atau scene laptop
+09_Paper_Swish.wav | 0.33s | Kad bertukar atau sticker digerakkan
+10_Sparkle.wav | 1.13s | Reveal logo atau penutup video
+
+Letak permulaan SFX tepat pada gerakan sticker atau kemunculan teks.
+Rendahkan volume jika bertindih dengan narration. Gunakan Sparkle untuk reveal penting sahaja.
+Semakan teknikal: 10 fail boleh dibaca, tiada peak clipping, fade di permulaan dan hujung.
+Semakan pendengaran langsung belum dilakukan.

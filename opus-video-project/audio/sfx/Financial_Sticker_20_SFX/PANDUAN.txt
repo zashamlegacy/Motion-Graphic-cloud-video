@@ -1,0 +1,30 @@
+20 FINANCIAL SFX
+
+Audio sintetik original untuk explainer sticker. Bukan rakaman objek sebenar atau bunyi rasmi bank.
+WAV PCM 16-bit mono 48kHz. Tiada muzik atau suara.
+
+01_Number_Counter_Fast.wav | 2.35s | Angka naik laju, jumlah income atau total
+02_Number_Counter_Slow.wav | 2.65s | Angka naik satu demi satu
+03_Number_Counter_Down.wav | 1.85s | Baki duit berkurang
+04_Calculator_Keys.wav | 0.95s | Kira bil, komitmen atau bajet
+05_Coin_Drop.wav | 0.75s | Satu syiling atau simpanan kecil
+06_Coin_Stack.wav | 1.25s | Syiling terkumpul
+07_Cash_Register.wav | 1.25s | Cha ching untuk jualan atau komisen
+08_Banknote_Count.wav | 0.95s | Kira atau susun wang kertas
+09_Income_Received.wav | 0.85s | Income atau gaji masuk
+10_Payment_Sent.wav | 0.75s | Bayar bil atau pindahan keluar
+11_Card_Swipe.wav | 0.6s | Kad digesek untuk bayaran
+12_QR_Scan.wav | 0.45s | Imbas QR atau baca kod
+13_Transaction_Pending.wav | 1.75s | Transaksi sedang diproses
+14_Payment_Declined.wav | 0.9s | Bayaran gagal atau kad ditolak
+15_Bill_Reminder.wav | 1.1s | Peringatan bil atau tarikh bayaran
+16_Graph_Rise.wav | 0.7s | Graf income atau simpanan naik
+17_Graph_Fall.wav | 0.7s | Graf baki atau income turun
+18_Low_Balance.wav | 1.35s | Amaran baki rendah
+19_Deadline_Tick_Tock.wav | 2.15s | Masa menuju deadline bayaran
+20_Savings_Goal.wav | 1.15s | Target simpanan tercapai
+
+Counter: trim atau duplicate mengikut durasi animasi angka.
+Align setiap tick dengan perubahan nombor; ding digunakan apabila angka berhenti.
+Rendahkan volume apabila SFX bertindih dengan narration.
+Semakan fail teknikal berjaya; pendengaran langsung belum disemak.
